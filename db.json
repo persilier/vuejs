@@ -44,6 +44,21 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id":3752797,
+      "user": {
+        "id": "abc900",
+        "name": "Fleurisse"
+      },
+      "category": "animal welfare",
+      "organizer": "Fleurisse",
+      "title": "Coaching winner",
+      "description": "Yay pups!",
+      "location": "Muskatown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "2:00",
+      "attendees": []
     }
   ]
 }
